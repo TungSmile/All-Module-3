@@ -1,0 +1,20 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+}
+#a {
+    list-style: none;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.0);
+    cursor:pointer;
+}
+#a a div {
+    position: absolute;
+    visibility:hidden;
+}
+#a a:hover div ul li a{
+    visibility:visible;
+}
+button {
+    background-color: rgba(255, 255, 255, 0.0);
+}
