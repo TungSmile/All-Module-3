@@ -24,7 +24,7 @@
                 <td><input id="3" type="text" name="Percent" placeholder="Enter Number: "/></td>
             </tr>
             <tr>
-                
+                <td colspan="2"><input type="submit" value="Calculator"/></td>
             </tr>
         </table>
     </form>
